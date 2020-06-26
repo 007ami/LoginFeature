@@ -3,11 +3,10 @@
 <suite name="LoginSuite">
   <test thread-count="5" name="LoginTestCases">
     <classes>
-     <class name="com.payseralogin.testCases.FNC_001_Login_With_Email_UnRegistered_User"/>
-     <class name="com.payseralogin.testCases.FNC_002_Login_With_Phone_UnRegistered_User"/>
-     <class name="com.payseralogin.testCases.FNC_003_Login_With_Phone_Registered_User"/>
-     <class name="com.payseralogin.testCases.FNC_004_Verify_Edit_Icon"/>
-      
+     <class name="com.login.testCases.FNC_001_Login_With_Email_UnRegistered_User"/>
+     <class name="com.login.testCases.FNC_002_Login_With_Phone_UnRegistered_User"/>
+     <class name="com.login.testCases.FNC_003_Login_With_Phone_Registered_User"/>
+     <class name="com.login.testCases.FNC_004_Verify_Edit_Icon"/>
     </classes>
   </test> <!-- LoginTestCases -->
 </suite> <!-- LoginSuite -->

@@ -1,4 +1,4 @@
-package com.payseralogin.testCases;
+package com.login.testCases;
 
 import org.testng.annotations.Test;
 import org.testng.AssertJUnit;
@@ -10,7 +10,7 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 
-import com.payseralogin.pageObject.LoginPage;
+import com.login.pageObject.LoginPage;
 
 public class FNC_004_Verify_Edit_Icon extends BaseClass {
 	

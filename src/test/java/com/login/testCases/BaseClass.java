@@ -1,4 +1,4 @@
-package com.payseralogin.testCases;
+package com.login.testCases;
 
 import org.apache.log4j.Logger;
 import org.apache.log4j.PropertyConfigurator;

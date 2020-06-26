@@ -1,4 +1,4 @@
-package com.payseralogin.testCases;
+package com.login.testCases;
 
 import org.testng.annotations.Test;
 import org.testng.AssertJUnit;
@@ -8,7 +8,7 @@ import org.openqa.selenium.By;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 
-import com.payseralogin.pageObject.LoginPage;
+import com.login.pageObject.LoginPage;
 
 public class FNC_002_Login_With_Phone_UnRegistered_User extends BaseClass {
 	
